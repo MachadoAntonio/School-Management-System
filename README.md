@@ -11,7 +11,7 @@ Welcome to <b>iSchool</b> - a School Management System written in the Java progr
 <b><i>Note: iSchool is in active development and it’s receiving constant updates with new features! Everything below is subject to change!</b></i>
 
 ## 📝 Full Description
-<b>iStudent</b> will play the role of a school data management system and will allow you to perform everything for a successful supervision. <br>
+<b>iSchool</b> will play the role of a school data management system and will allow you to perform everything for a successful supervision. <br>
 
 A basic managment system for a virtual school - you can build, organize and control a computer-generated educational institution. You take the role of the administrator and have the rights to do everything this system has to offer. The app is designed to operate as a school organization control to add and manage student data, as well as request a certain information from the DB by the user - administrator. You can use the school management software to manage your school's daily administrative and academic operations. The main key features are: <br>
 
