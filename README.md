@@ -1,14 +1,14 @@
-# <p align="center"> iStudent <br> Control your virtual school! 📚
+# <p align="center"> iSchool <br> Control your virtual school! 📚
 
 <p align="center"> 
-Welcome to <b>iStudent</b> - a School Management System written in the Java programming language on the world's most popular framework - <b>Spring!</b> Take a full control of a virtual school and manage its students, teachers, employees and student clubs! You can perfom certain actions like adding students, teachers and even parents of students!
+Welcome to <b>iSchool</b> - a School Management System written in the Java programming language on the world's most popular framework - <b>Spring!</b> Take a full control of a virtual school and manage its students, teachers, employees and student clubs! You can perfom certain actions like adding students, teachers and even parents of students!
 <p>
 
 <p align="center">
 
 <p>
 
-<b><i>Note: iStudent is in active development and it’s receiving constant updates with new features! Everything below is subject to change!</b></i>
+<b><i>Note: iSchool is in active development and it’s receiving constant updates with new features! Everything below is subject to change!</b></i>
 
 ## 📝 Full Description
 <b>iStudent</b> will play the role of a school data management system and will allow you to perform everything for a successful supervision. <br>
@@ -57,5 +57,5 @@ Web App - <b>Actively in development!</b>
   
 ## 👨‍💻 Author
 <b><i>Machado António</b></i>
-* [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ventsislav-todorov-835b61252)
+* [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/.machado-antonio-37b91768/.)
 * <a href = "mailto: machadojoaoantonio@outlook.com">![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
