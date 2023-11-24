@@ -12,7 +12,7 @@ import java.lang.annotation.Target;
 @Constraint(validatedBy = UniqueClubNameValidator.class)
 public @interface UniqueClubName {
 
-    String message() default "This club name has been already used!";
+    String message() default "This club name is already in use!";
 
     Class<?>[] groups() default {};
 
