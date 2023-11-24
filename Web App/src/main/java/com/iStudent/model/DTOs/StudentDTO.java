@@ -6,7 +6,7 @@ import java.time.LocalDate;
 
 public class StudentDTO extends PersonEntityDTO {
 
-    private final LocalDate enrollDate = LocalDate.now();
+    private final LocalDate enrollDate = LocalDate.now(); //To get the enroll date of the student
 
     private ParentDTO parent;
 
